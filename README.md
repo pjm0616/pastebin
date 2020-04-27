@@ -1,3 +1,12 @@
+```
+$ npm run buildall
+$ sha1sum dist{,-localize}/*/main-es5*.js
+6e0407f00e27d877cb8bbcf0d7b069dfcc42cb8b  dist/en/main-es5.27d2d00de67fb6cace7d.js
+bc09ba481672f092a359949c6d55b14e319fc63a  dist/ko/main-es5.54a148db9b0b5fb29549.js
+6e0407f00e27d877cb8bbcf0d7b069dfcc42cb8b  dist-localize/en/main-es5.54a148db9b0b5fb29549.js
+bc09ba481672f092a359949c6d55b14e319fc63a  dist-localize/ko/main-es5.54a148db9b0b5fb29549.js
+```
+
 # Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
