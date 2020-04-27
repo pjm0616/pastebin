@@ -2,6 +2,7 @@
   "name": "project",
   "version": "0.0.0",
   "scripts": {
+    "buildall": "ng build --prod --localize --output-path=dist-localize; ng build --prod --i18nLocale=en --baseHref=/en/ --output-path=dist/en; ng build --prod --i18nLocale=ko --baseHref=/ko/ --i18nFile=src/i18n/messages.ko.xlf --output-path=dist/ko",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",

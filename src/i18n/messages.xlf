@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en">
+  <file original="ng.template" id="ngi18n">
+    <unit id="3368401739270046192">
+      <notes>
+        <note category="location">src/app/app.component.html:333</note>
+      </notes>
+      <segment>
+        <source><ph id="0" equiv="INTERPOLATION" disp="{{ title }}"/> app is running!</source>
+      </segment>
+    </unit>
+    <unit id="2446117790692479672">
+      <notes>
+        <note category="location">src/app/app.component.html:342</note>
+      </notes>
+      <segment>
+        <source>Resources</source>
+      </segment>
+    </unit>
+    <unit id="4274046789977098738">
+      <notes>
+        <note category="location">src/app/app.component.html:343</note>
+      </notes>
+      <segment>
+        <source>Here are some links to help you get started:</source>
+      </segment>
+    </unit>
+  </file>
+</xliff>
